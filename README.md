@@ -56,5 +56,4 @@
 ---
 
 <p align="center">
-  <em>⭐ "Data is the new oil — and I'm here to refine it!" ⭐</em>
-</p>
+  
