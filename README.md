@@ -40,7 +40,7 @@
 
 | 🔗 Project | 📌 Description | 🛠️ Tools |
 |---|---|---|
-| 🍽️ [Zomato EDA](#) | Restaurant trends & insights across Indian cities | Pandas, Seaborn |
+| 🍽️ [Zomato EDA](https://github.com/ramandeep-kaur33/zomato-eda) | Restaurant trends & insights across Indian cities | Pandas, Seaborn |
 | 🏠 [House Price Predictor](#) | End-to-end ML model with feature engineering | Scikit-learn, Python |
 | 📧 [Spam Email Detector](#) | NLP classifier deployed on Streamlit | NLTK, Sklearn, Streamlit |
 
