@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Ramandeep Kaur 👩‍💻✨</h1>
 
 <p align="center">
-  <em>Turning raw data into real insights 📊 | B.Tech CSE '25 | Delhi, India</em>
+  <em>Turning raw data into real insights 📊 | B.Tech CSE '27 | Delhi, India</em>
 </p>
 
 <p align="center">
