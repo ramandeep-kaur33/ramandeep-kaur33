@@ -41,7 +41,7 @@
 | 🔗 Project | 📌 Description | 🛠️ Tools |
 |---|---|---|
 | 🍽️ [Zomato EDA](https://github.com/ramandeep-kaur33/zomato-eda) | Restaurant trends & insights across Indian cities | Pandas, Seaborn |
-| 🏠 [House Price Predictor](#) | End-to-end ML model with feature engineering | Scikit-learn, Python |
+| | 📊 [Job Market Analysis](https://github.com/ramandeep-kaur33/Job-Market-Analysis) | Analyze job market trends, salaries, skills & hiring patterns | Python, SQL, Power BI |
 | 📧 [Spam Email Detector](#) | NLP classifier deployed on Streamlit | NLTK, Sklearn, Streamlit |
 
 ---
